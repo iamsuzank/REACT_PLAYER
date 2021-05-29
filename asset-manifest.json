@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactJS-Music-Player/static/css/main.e247f115.chunk.css",
-    "main.js": "/ReactJS-Music-Player/static/js/main.0e056cf7.chunk.js",
-    "main.js.map": "/ReactJS-Music-Player/static/js/main.0e056cf7.chunk.js.map",
-    "runtime-main.js": "/ReactJS-Music-Player/static/js/runtime-main.c16c979c.js",
-    "runtime-main.js.map": "/ReactJS-Music-Player/static/js/runtime-main.c16c979c.js.map",
-    "static/js/2.a6cc8b40.chunk.js": "/ReactJS-Music-Player/static/js/2.a6cc8b40.chunk.js",
-    "static/js/2.a6cc8b40.chunk.js.map": "/ReactJS-Music-Player/static/js/2.a6cc8b40.chunk.js.map",
-    "static/js/3.59293239.chunk.js": "/ReactJS-Music-Player/static/js/3.59293239.chunk.js",
-    "static/js/3.59293239.chunk.js.map": "/ReactJS-Music-Player/static/js/3.59293239.chunk.js.map",
-    "index.html": "/ReactJS-Music-Player/index.html",
-    "static/css/main.e247f115.chunk.css.map": "/ReactJS-Music-Player/static/css/main.e247f115.chunk.css.map",
-    "static/js/2.a6cc8b40.chunk.js.LICENSE.txt": "/ReactJS-Music-Player/static/js/2.a6cc8b40.chunk.js.LICENSE.txt"
+    "main.css": "/REACT-PLAYER/static/css/main.e247f115.chunk.css",
+    "main.js": "/REACT-PLAYER/static/js/main.0e056cf7.chunk.js",
+    "main.js.map": "/REACT-PLAYER/static/js/main.0e056cf7.chunk.js.map",
+    "runtime-main.js": "/REACT-PLAYER/static/js/runtime-main.c7cc414c.js",
+    "runtime-main.js.map": "/REACT-PLAYER/static/js/runtime-main.c7cc414c.js.map",
+    "static/js/2.a6cc8b40.chunk.js": "/REACT-PLAYER/static/js/2.a6cc8b40.chunk.js",
+    "static/js/2.a6cc8b40.chunk.js.map": "/REACT-PLAYER/static/js/2.a6cc8b40.chunk.js.map",
+    "static/js/3.59293239.chunk.js": "/REACT-PLAYER/static/js/3.59293239.chunk.js",
+    "static/js/3.59293239.chunk.js.map": "/REACT-PLAYER/static/js/3.59293239.chunk.js.map",
+    "index.html": "/REACT-PLAYER/index.html",
+    "static/css/main.e247f115.chunk.css.map": "/REACT-PLAYER/static/css/main.e247f115.chunk.css.map",
+    "static/js/2.a6cc8b40.chunk.js.LICENSE.txt": "/REACT-PLAYER/static/js/2.a6cc8b40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c16c979c.js",
+    "static/js/runtime-main.c7cc414c.js",
     "static/js/2.a6cc8b40.chunk.js",
     "static/css/main.e247f115.chunk.css",
     "static/js/main.0e056cf7.chunk.js"
